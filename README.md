@@ -2,7 +2,9 @@
 
 Create a dockerized version of Hashicorp Vault for development
 
-> TODO: Add link to Medium post and add more description to this readme
+## Usage
+
+Please refer to my article on Medium for further details on how to use this repository: [https://medium.com/@smaschek85/setting-up-hashicorp-vault-with-docker-74d82bdd7f31](https://medium.com/@smaschek85/setting-up-hashicorp-vault-with-docker-74d82bdd7f31)
 
 ## License
 
